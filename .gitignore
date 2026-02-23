@@ -1,0 +1,18 @@
+# Ignore IDE and editor history directories
+.history/
+
+# Ignore Claude-specific directories
+.claude/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules (if applicable)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
