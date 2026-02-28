@@ -1,0 +1,11 @@
+{
+  "owner": "diyuan",
+  "slug": "csv-pipeline",
+  "displayName": "CSV 数据处理管道",
+  "description": "处理 CSV、TSV、JSON 数据文件的完整流程工具集",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1740700800,
+    "commit": "https://github.com/diyuan/skills/tree/main/tools/csv-pipeline"
+  }
+}

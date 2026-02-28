@@ -16,6 +16,7 @@ skills/
 ├── product/            # 产品经理系列
 ├── solution/           # 解决方案系列
 ├── teach/              # 教育类角色
+├── tools/              # 工具技能集合
 └── README.md           # 本文件
 ```
 
@@ -44,6 +45,17 @@ skills/
 
 **总计: 73/73 技能已完成**
 
+### 新增技能 - Agent Tools
+
+| 分类 | 技能 | 说明 |
+|-----|------|------|
+| architect | `senior-architect` | 资深架构师 - 系统设计、架构决策、技术选型 |
+| architect | `cto-advisor` | CTO 技术顾问 - 技术债务分析、团队扩展、DORA指标 |
+| tools | `bing-search` | Bing 搜索引擎 - 无需 API Key |
+| tools | `duckduckgo-search` | DuckDuckGo 隐私搜索 - 支持文本/新闻/图片/视频 |
+| tools | `memory` | 记忆系统 - 捕获、回忆、维护 |
+| tools | `csv-pipeline` | CSV 数据处理管道 - 清洗、转换、分析 |
+
 ## 分类说明
 
 ### 1. architect - 架构师系列
@@ -58,6 +70,8 @@ skills/
 | `backend-architect` | 后端架构师 - 服务端架构设计 |
 | `data-architect` | 数据架构师 - 数据架构和治理 |
 | `integration-architect` | 集成架构师 - 系统集成和API管理 |
+| `senior-architect` | 资深架构师 - 系统设计、架构决策、技术选型、架构评审 |
+| `cto-advisor` | CTO 技术顾问 - 技术债务分析、团队扩展规划、DORA指标、工程效能 |
 
 ### 2. company - 企业职能系列
 企业运营和管理相关的专业角色。
@@ -178,6 +192,16 @@ skills/
 | `researcher` | 研究员 - 学术与行业研究 |
 | `consultant` | 咨询顾问 - 管理与技术咨询 |
 | `prompt-engineer` | 提示词工程师 - Prompt工程 |
+
+### 11. tools - 工具技能集合
+实用的工具技能，增强 Agent 能力。
+
+| 子分类 | 说明 |
+|--------|------|
+| `bing-search` | Bing 搜索 - 网络搜索工具，无需 API Key |
+| `duckduckgo-search` | DuckDuckGo 搜索 - 隐私友好的搜索引擎 |
+| `memory` | 记忆系统 - 长期记忆管理，支持捕获/回忆/维护 |
+| `csv-pipeline` | CSV 数据处理 - 数据清洗、转换、分析工具 |
 
 ## 文件格式
 

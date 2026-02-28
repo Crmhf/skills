@@ -1,0 +1,11 @@
+{
+  "owner": "diyuan",
+  "slug": "duckduckgo-search",
+  "displayName": "DuckDuckGo 搜索",
+  "description": "基于 DuckDuckGo 的隐私友好型搜索，支持文本、新闻、图片、视频搜索",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1740700800,
+    "commit": "https://github.com/diyuan/skills/tree/main/tools/duckduckgo-search"
+  }
+}

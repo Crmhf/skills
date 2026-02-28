@@ -1,0 +1,11 @@
+{
+  "owner": "diyuan",
+  "slug": "memory",
+  "displayName": "记忆系统",
+  "description": "完整的 Agent 记忆系统，支持捕获、回忆、维护功能",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1740700800,
+    "commit": "https://github.com/diyuan/skills/tree/main/tools/memory"
+  }
+}

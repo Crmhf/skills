@@ -1,0 +1,11 @@
+{
+  "owner": "diyuan",
+  "slug": "cto-advisor",
+  "displayName": "CTO 技术顾问",
+  "description": "工程团队技术领导力指导，包括技术债务分析、团队扩展计算、DORA 指标等",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1740700800,
+    "commit": "https://github.com/diyuan/skills/tree/main/architect/cto-advisor"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "owner": "diyuan",
+  "slug": "bing-search",
+  "displayName": "Bing 搜索",
+  "description": "使用 Bing 搜索引擎进行网络搜索，无需 API Key",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1740700800,
+    "commit": "https://github.com/diyuan/skills/tree/main/tools/bing-search"
+  }
+}

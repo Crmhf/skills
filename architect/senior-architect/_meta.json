@@ -1,0 +1,11 @@
+{
+  "owner": "diyuan",
+  "slug": "senior-architect",
+  "displayName": "资深架构师",
+  "description": "提供系统设计、架构决策、技术选型与架构评审的专业指导",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1740700800,
+    "commit": "https://github.com/diyuan/skills/tree/main/architect/senior-architect"
+  }
+}
