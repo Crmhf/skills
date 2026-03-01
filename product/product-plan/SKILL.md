@@ -403,3 +403,11 @@ Q4：生态建设
 - **项目管理**：Jira、飞书项目、Asana、Monday
 - **协作工具**：Notion、Confluence、Miro、FigJam
 - **路线图工具**：Productboard、Aha!、Roadmunk、飞书多维表格
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/product-planning-framework.md](references/product-planning-framework.md) | 产品生命周期、需求收集方法、优先级评估、路线图制定 |

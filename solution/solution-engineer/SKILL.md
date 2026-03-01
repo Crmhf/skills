@@ -493,3 +493,11 @@ POC汇报PPT:
 | 项目管理 | Jira、飞书项目 |
 | 数据分析 | Excel、Python、Tableau |
 | 客户关系 | Salesforce、纷享销客 |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/solution-design-patterns.md](references/solution-design-patterns.md) | 架构模式、集成模式、安全设计、性能设计 |

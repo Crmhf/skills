@@ -532,3 +532,13 @@ public class OrderService {
 | 消息队列 | Kafka、RocketMQ、RabbitMQ |
 | 搜索引擎 | Elasticsearch、Meilisearch |
 | 监控 | Prometheus、Grafana、SkyWalking |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/microservices-patterns.md](references/microservices-patterns.md) | 服务拆分、通信模式、数据管理、服务治理、故障处理 |
+| [references/database-optimization.md](references/database-optimization.md) | 索引优化、查询优化、架构优化、连接池优化 |
+| [references/api-design-guide.md](references/api-design-guide.md) | RESTful 规范、版本控制、错误处理、安全防护、GraphQL |

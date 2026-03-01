@@ -255,3 +255,11 @@ K = i × c
 | 营销 | HubSpot, Marketo, Intercom |
 | 数据 | Segment, Rudderstack |
 | 协作 | Notion, Coda, Airtable |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/growth-strategies.md](references/growth-strategies.md) | 增长模型、AARRR漏斗、增长实验、渠道策略 |

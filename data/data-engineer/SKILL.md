@@ -508,3 +508,11 @@ def etl_pipeline():
 | 数据质量 | Great Expectations、Deequ、Soda |
 | OLAP | StarRocks、Doris、ClickHouse、Pinot |
 | 数据血缘 | OpenLineage、Apache Atlas、DataHub |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/data-pipeline-patterns.md](references/data-pipeline-patterns.md) | ETL/ELT模式、批处理vs流处理、数据质量检查 |

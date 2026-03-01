@@ -496,3 +496,13 @@ const login = isWeapp
 | 测试 | Vitest、Playwright、Storybook |
 | 移动端 | React Native、Flutter、Taro |
 | 桌面端 | Tauri、Electron |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/component-patterns.md](references/component-patterns.md) | 复合组件、受控组件、自定义 Hooks、性能优化模式 |
+| [references/state-management-guide.md](references/state-management-guide.md) | React/Vue 状态管理方案对比、选型决策树、最佳实践 |
+| [references/performance-optimization.md](references/performance-optimization.md) | Core Web Vitals、加载/渲染/网络优化、缓存策略 |

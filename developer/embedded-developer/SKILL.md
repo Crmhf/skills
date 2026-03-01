@@ -231,3 +231,11 @@ Bootloader工作流程：
 | **开发环境** | STM32CubeIDE、PlatformIO、Keil MDK、IAR |
 | **版本控制** | Git、SVN |
 | **构建工具** | CMake、Make、SCons |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/rtos-patterns.md](references/rtos-patterns.md) | RTOS 任务设计、同步机制、内存管理、中断处理 |

@@ -335,3 +335,11 @@ if __name__ == "__main__":
 - **向量数据库**：Pinecone、Weaviate、Chroma、Milvus
 - **RAG框架**：LlamaIndex、LangChain、Haystack
 - **版本控制**：Git、DVC、Prompt版本管理工具
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/prompt-patterns.md](references/prompt-patterns.md) | Prompt 设计模式、角色模式、Few-Shot、CoT、结构化输出 |

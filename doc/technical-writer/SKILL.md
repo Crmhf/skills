@@ -543,3 +543,11 @@ PDCA循环:
 | 托管平台 | Vercel、Netlify、Cloudflare Pages |
 | 搜索服务 | Algolia、Elasticsearch |
 | 翻译管理 | Crowdin、Lokalise |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/documentation-templates.md](references/documentation-templates.md) | API文档、架构文档、操作手册模板 |

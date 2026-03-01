@@ -376,3 +376,11 @@ Week 4：验收评审、报告输出
 - **投标工具**：电子招投标平台、CA证书
 - **产品演示**：SaaS演示环境、Docker快速部署
 - **协作工具**：飞书、钉钉、企业微信
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/solution-templates.md](references/solution-templates.md) | 需求分析、方案设计、技术建议书、POC规划模板 |

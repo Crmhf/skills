@@ -461,3 +461,11 @@ public class ChaseAction : BTNode {
 | **音频中间件** | Wwise、FMOD Studio、Unity Audio |
 | **版本控制** | Perforce、Git LFS、Plastic SCM |
 | **美术工具** | Blender、Maya、Substance Painter、ZBrush |
+
+---
+
+## 参考文档
+
+| 文档 | 内容 |
+|------|------|
+| [references/game-design-patterns.md](references/game-design-patterns.md) | ECS架构、对象池、组件系统、状态机、事件系统 |

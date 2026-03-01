@@ -29,6 +29,7 @@ skills/
 - 核心能力表格
 - 5个标杆角色对话示例
 - Tech Stack
+- References 参考资料（39个目录，覆盖所有主要技能）
 
 | 分类 | 数量 | 状态 |
 |------|------|------|
@@ -253,11 +254,29 @@ triggers:
 skill-name/
 ├── SKILL.md              # 主要技能定义
 ├── references/           # 参考资料（必需）
-│   ├── guide1.md
-│   └── guide2.md
+│   ├── guide1.md         # 详细指南
+│   ├── examples.md       # 示例集合
+│   └── patterns.md       # 模式与最佳实践
 └── scripts/              # 自动化脚本（可选）
     └── utils.py
 ```
+
+### References 说明
+
+`references/` 文件夹存放技能的详细参考资料：
+
+| 文件类型 | 说明 | 示例 |
+|----------|------|------|
+| `*-guide.md` | 详细使用指南 | `api-design-guide.md` |
+| `*-patterns.md` | 设计模式与架构 | `microservices-patterns.md` |
+| `*-examples.md` | 示例代码/案例 | `requirement-examples.md` |
+| `*-best-practices.md` | 最佳实践 | `performance-best-practices.md` |
+
+这些文档提供：
+- **深度内容**：SKILL.md 无法展开的详细技术内容
+- **实战示例**：可复用的代码模板和配置
+- **决策参考**：技术选型、方案对比等决策支持
+- **检查清单**：确保实施质量的检查项
 
 ## 使用方式
 
